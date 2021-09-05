@@ -724,7 +724,7 @@ a {
   }
 }
 .cid-sIa3Z591ew {
-  padding-top: 4rem;
+  padding-top: 6rem;
   padding-bottom: 0rem;
   background-color: #65c6d4;
 }
@@ -755,8 +755,8 @@ a {
   width: 1.6rem;
 }
 .cid-sIa7fhBkaA {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   background-color: #ffffff;
 }
 .cid-sIa7fhBkaA .carousel-item {
@@ -810,12 +810,16 @@ a {
   text-align: center;
 }
 .cid-sIadYXwUDB {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   background-color: #4479d9;
 }
 .cid-sIadYXwUDB .mbr-section-title {
   color: #ffffff;
+}
+.cid-sIadYXwUDB .mbr-text,
+.cid-sIadYXwUDB .mbr-section-btn {
+  text-align: center;
 }
 .cid-sHMynXfgwZ {
   padding-top: 5rem;
