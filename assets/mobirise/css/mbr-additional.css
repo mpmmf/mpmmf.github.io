@@ -718,7 +718,7 @@ a {
 }
 .cid-sIg0INkhZ8 .carousel-item,
 .cid-sIg0INkhZ8 .carousel-inner {
-  height: 100%;
+  height: auto;
 }
 .cid-sIg0INkhZ8 .carousel-caption {
   bottom: 40px;
