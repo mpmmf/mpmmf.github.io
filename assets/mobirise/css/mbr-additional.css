@@ -714,7 +714,8 @@ a {
 }
 .cid-sIg0INkhZ8 .carousel img {
   width: 100%;
-  object-fit: cover;
+  height: 100%;
+  object-fit: scale-down;
 }
 .cid-sIg0INkhZ8 .carousel-item,
 .cid-sIg0INkhZ8 .carousel-inner {
