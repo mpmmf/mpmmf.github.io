@@ -915,6 +915,87 @@ a {
   color: #fff;
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 262 266.895'><path id='path3087' fill='%23fff' d='M182.409,262.307v-99.803h33.499l5.016-38.895h-38.515V98.777c0-11.261,3.127-18.935,19.275-18.935 l20.596-0.009V45.045c-3.562-0.474-15.788-1.533-30.012-1.533c-29.695,0-50.025,18.126-50.025,51.413v28.684h-33.585v38.895h33.585 v99.803H182.409z'></path></svg>");
 }
+.cid-sMGd90AMFA {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sMGd90AMFA .item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.cid-sMGd90AMFA .item .icon-wrap {
+  text-align: center;
+}
+.cid-sMGd90AMFA .item span {
+  font-size: 2rem;
+  color: #ffffff;
+  line-height: 60px;
+}
+.cid-sMGd90AMFA .item::before {
+  content: "\e96b";
+  font-family: Moririse2 !important;
+  position: absolute;
+  font-size: 32px;
+  left: -15px;
+  top: 12%;
+  color: #6592e6;
+}
+.cid-sMGd90AMFA .item.first:before {
+  display: none;
+}
+.cid-sMGd90AMFA .item.five:before {
+  display: none;
+}
+.cid-sMGd90AMFA .icon-box {
+  background: #6592e6;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+}
+.cid-sMGd90AMFA .text-box {
+  margin-top: 1rem;
+  text-align: center;
+}
+.cid-sMGd90AMFA .mbr-iconfont {
+  color: #6592e6 !important;
+  position: absolute;
+  top: 50%;
+  left: 100%;
+}
+@media (max-width: 991px) {
+  .cid-sMGd90AMFA .item:before {
+    display: none;
+  }
+  .cid-sMGd90AMFA .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sMGccnJ2qo {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sMGccnJ2qo .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sMGccnJ2qo form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sMGccnJ2qo form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-sMGccnJ2qo form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
 .cid-sKyvMF883o {
   padding-top: 6rem;
   padding-bottom: 6rem;
