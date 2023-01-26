@@ -64,9 +64,11 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishType": "local",
+    "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "gitHubName": "mpmmf",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
