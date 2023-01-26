@@ -65,7 +65,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishPath": "@PROJECT_PATH@",
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
