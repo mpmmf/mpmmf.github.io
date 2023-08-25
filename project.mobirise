@@ -65,7 +65,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
