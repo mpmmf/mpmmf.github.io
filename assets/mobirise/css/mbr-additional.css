@@ -1110,6 +1110,30 @@ a {
   text-align: center;
   color: #232323;
 }
+.cid-tVLzntSMZm {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/9-1414x2000.jpeg");
+}
+.cid-tVLzntSMZm .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tVLzntSMZm .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tVLzntSMZm .mbr-section-title {
+  color: #f37777;
+}
+.cid-tVLzntSMZm .mbr-text,
+.cid-tVLzntSMZm .link {
+  color: #ffffff;
+}
 .cid-ttPTkFngLP {
   padding-top: 3rem;
   padding-bottom: 2rem;
