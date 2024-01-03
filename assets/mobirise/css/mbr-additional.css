@@ -1984,6 +1984,27 @@ a {
     left: -1rem;
   }
 }
+.cid-u0hEAJEDLL {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/mbr-1-1478x1920.jpeg");
+}
+.cid-u0hEAJEDLL .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+@media (min-width: 992px) {
+  .cid-u0hEAJEDLL form {
+    width: 50%;
+  }
+}
+.cid-u0hEAJEDLL form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-u0hEAJEDLL form .mbr-section-btn .btn {
+  width: 100%;
+}
 .cid-ttLqJAQrmN {
   padding-top: 4rem;
   padding-bottom: 1rem;
